@@ -7,8 +7,7 @@
 )](https://www.instagram.com/silva_ramos73/)
 
 
-![LeonardoWilliam GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoWilliam&show_icons=true&theme=dracula)
-
+![LeonardoWilliam GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoWilliam&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoWilliam)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  TECNOLOGIAS 🧑‍💻
 
@@ -17,8 +16,7 @@
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div><br/> 
+</div><br/>
 
 Apaixonado pela Tecnologia, buscando me qualifica para se torna um mestre na àrea de Tecnologia e programação.
-
 
